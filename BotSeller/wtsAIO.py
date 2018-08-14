@@ -154,7 +154,7 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run('NDc4NzczMjkwMTUyODg2Mjkz.DlPkEA.eaDwlLjUWSU1Y3lYY1-SCzb8QFc')
+client.run('DISCORD TOKEN HERE')
 
 
 
